@@ -7,7 +7,7 @@ variable "lambda_function_name" {
 }
 
 variable "key_pair_name" {
-  default = "BRUNO-KEY-IGTI"
+  default = "key-consolepolicy-3"
 }
 
 variable "airflow_subnet_id" {
